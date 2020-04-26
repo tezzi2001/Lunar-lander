@@ -1,0 +1,9 @@
+left ctrl - decrease thrust
+
+left shift - increase thrust
+
+arrow up - rotate lander to positive direction 
+
+arrow down - rotate lander to negative direction 
+
+x - off thrust
